@@ -20,12 +20,7 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 
 ### **Tools & Technologies**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/-CI/CD-0696D7?logo=githubactions&logoColor=white)  
-![DevOps](https://img.shields.io/badge/-DevOps-4285F4?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)  ![CI/CD](https://img.shields.io/badge/-CI/CD-0696D7?logo=githubactions&logoColor=white)  ![DevOps](https://img.shields.io/badge/-DevOps-4285F4?logo=googlecloud&logoColor=white)
 
 ---
 
