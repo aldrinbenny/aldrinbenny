@@ -17,8 +17,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldrinbenny&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldrinbenny&theme=radical)
 
 ---
 
