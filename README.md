@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  [JavaScript(https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![JavaScript(https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 
 ### **Frameworks & Platforms**  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
